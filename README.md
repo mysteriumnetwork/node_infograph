@@ -1,1 +1,1 @@
-# Ideograph about Mysterium VPN nodes
+# Infograph about Mysterium VPN nodes
